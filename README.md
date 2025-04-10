@@ -6,7 +6,7 @@ This project is an interactive dashboard built using Plotly Dash to explore and 
 
 🎚️ Custom filters for price range, neighborhood, room type, and more
 
-📈 Dynamic visualizations including bar charts, scatter plots, and histograms
+📈 Dynamic visualizations including bar charts, scatter plots, geospatial graphs, and histograms
 
 🧭 Responsive layout using Bootstrap for clean and intuitive user experience
 
@@ -22,7 +22,7 @@ NumPy: Numerical operations and array handling
 dash-bootstrap-components: Adds responsive Bootstrap styling and layout components
 
 📁 Files
-airbnb.csv: Scraped data of Airbnb Listings in Bristol UK as of December 24, 2025
+airbnb.xlsx: Scraped data of Airbnb Listings in Bristol UK as of December 24, 2025
 
 HostTrackerAirbnb.ipynb: Cleans and creates a dashbaord using plotly express.
 
